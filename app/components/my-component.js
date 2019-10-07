@@ -1,0 +1,1 @@
+export { default } from 'example/components/my-component';
